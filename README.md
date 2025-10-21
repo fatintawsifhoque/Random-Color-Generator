@@ -32,7 +32,7 @@ Perfect for beginners to understand how dynamic web experiences are created **wi
 
 ## ▶️ Live Demo
 
-👉 **[View Live Demo](https://your-username.github.io/random-color-generator)**
+👉 **[View Live Demo](https://random-color-generator-murex.vercel.app/)**
 
 > Deployed via **Vercel** – no build step, just open and run.
 
