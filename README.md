@@ -2,7 +2,7 @@
 
 > A minimal, zero-dependency color generator built with vanilla web technologies — demonstrating core frontend fundamentals with clean, intentional code.
 
-![Demo](![demo](demo.png))  
+![Demo] ![demo](demo.png)
 
 ---
 
